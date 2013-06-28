@@ -1,5 +1,5 @@
 ZSH=$HOME/.zsh
-EDITOR=vim
+EDITOR="mate -w"
 
 PATH=/usr/local/bin:/usr/local/sbin:$PATH         # Machine
 PATH=/usr/local/share/python:$PATH                # Python
