@@ -1,3 +1,0 @@
-#!/bin/sh
-
-sass --watch sass/base.scss:css/base.css sass/ie.scss:css/ie.css --style compact
